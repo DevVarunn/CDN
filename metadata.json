@@ -1,0 +1,44 @@
+{
+    "name": "FINAL TIME SHARE TOKEN",
+    "symbol": "FTST",
+    "description": "Welcome to the kanaka resort goa !!",
+    "seller_fee_basis_points": 0,
+    "image": "https://static.toiimg.com/thumb/msid-88712202,imgsize-916305,width-400,resizemode-4/88712202.jpg",
+    "attributes": [
+        {
+            "trait_type": "AccessDate",
+            "value": "01/06/2022"
+        },
+        {
+            "trait_type": "YearsOfLife",
+            "value": "20"
+        },
+        {
+            "trait_type": "Location",
+            "value": "Goa, India"
+        },
+        {
+            "trait_type": "AccessTime",
+            "value": "24 Hrs"
+        }
+    ],
+    "collection": {
+        "name": "FINAL TIMESHARE RESORT",
+        "family": "FTRS"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://drive.google.com/file/d/1br50VS1Lj-qcqsAraji9Ekt2EKnk20vf/view?usp=sharing",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "FM7FYxjs7FVjK4Dw2HTuX7eaaLPAwmvGhY66rE9RDcFk",
+                "share": 100
+            }
+        ]
+    }
+}
