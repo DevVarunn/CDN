@@ -3,7 +3,7 @@
     "symbol": "FTST",
     "description": "Welcome to the kanaka resort goa !!",
     "seller_fee_basis_points": 0,
-    "image": "https://static.toiimg.com/thumb/msid-88712202,imgsize-916305,width-400,resizemode-4/88712202.jpg",
+    "image": "https://raw.githubusercontent.com/nurav97/CDN/main/dunder-Mifflin-building-the-office-where-location.jpg",
     "attributes": [
         {
             "trait_type": "AccessDate",
@@ -29,7 +29,7 @@
     "properties": {
         "files": [
             {
-                "uri": "https://drive.google.com/file/d/1br50VS1Lj-qcqsAraji9Ekt2EKnk20vf/view?usp=sharing",
+                "uri": "https://raw.githubusercontent.com/nurav97/CDN/main/dunder-Mifflin-building-the-office-where-location.jpg",
                 "type": "image/png"
             }
         ],
